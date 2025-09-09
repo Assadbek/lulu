@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>HELLO, CAN YOU HELP ME</pattern>
+    <template>Hi there! Of course, I’d love to help you. What’s on your mind?</template>
+  </category>
+  <category>
+    <pattern>WHAT MOVIE CAN I WATCH TODAY</pattern>
+    <template>Ooo exciting! How about a feel-good movie today? If you want cozy vibes, try Paddington 2. If you want adventure, go for Guardians of the Galaxy. Which mood are you in?</template>
+  </category>
+</aiml>
